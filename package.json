@@ -1,0 +1,8 @@
+{
+  "name": "osmod-wordpress",
+  "version": "1.0.0",
+  "description": "Demo wordpress integration",
+  "dependencies": {
+    "@osmod/cli": "dev"
+  }
+}

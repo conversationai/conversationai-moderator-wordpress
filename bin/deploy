@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gcloud app deploy -q --project="osmod-opensource-demo-1" --promote wordpress/app.yaml osmod/app.yaml
